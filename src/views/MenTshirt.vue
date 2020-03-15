@@ -531,6 +531,7 @@
     margin-top: 46px;
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 .promo{
 
@@ -559,7 +560,7 @@
     position: sticky;
     float: left;
     width: 15%;
-    z-index: -1 ;
+    z-index:0;
 }
 ._filter_item_wrapper{
     border: 1px solid rgba(128, 128, 128, 0.32);
