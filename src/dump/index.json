@@ -1,0 +1,101 @@
+{
+  "vertical filter": {
+    "brand": {
+      "Roadster": {
+        "type": "checkbox",
+        "count": 234
+      },
+      "Puma": {
+        "type": "checkbox",
+        "count": 2343
+      },
+      "WRONG": {
+        "type": "checkbox",
+        "count": 876
+      }
+    },
+    "price": [
+      {
+        "type": "checkbox",
+        "to": 2156,
+        "from": 195,
+        "currency": "Rs",
+        "count": 324
+      },
+      {
+        "type": "checkbox",
+        "to": 4156,
+        "from": 2156,
+        "currency": "Rs",
+        "count": 3224
+      },
+      {
+        "type": "checkbox",
+        "to": 4117,
+        "from": 6078,
+        "currency": "Rs",
+        "count": 1224
+      }
+    ],
+    "color": [
+      {
+        "type": "checkbox",
+        "color": "black",
+        "count": 54343
+      },
+      {
+        "type": "checkbox",
+        "color": "magenta",
+        "count": 233
+      },
+      {
+        "type": "checkbox",
+        "color": "orange",
+        "count": 2233
+      }
+    ],
+    "discount range": [
+      {
+        "type": "radio",
+        "percent": "10"
+      },
+      {
+        "type": "radio",
+        "percent": "20"
+      },
+      {
+        "type": "radio",
+        "percent": "30"
+      }
+    ]
+  },
+  "horizontal filter": [
+    {
+      "Bundles": {
+        "Bundles": {
+          "type": "checkbox"
+        },
+        "Single Style": {
+          "type": "checkbox"
+        }
+      }
+    },
+    {
+      "Fabric": {
+        "Bamboo": {
+          "type": "checkbox"
+        },
+        "Wool": {
+          "type": "checkbox"
+        }
+      }
+    }
+  ],
+  "Sort By": [
+
+    "Recommended",
+    "What's New",
+    "Popularity"
+
+  ]
+}

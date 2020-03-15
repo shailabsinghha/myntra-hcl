@@ -1,0 +1,34 @@
+{
+  "_footer_start": {
+    "onlineShopping":   ["Men","Women","Kids"],
+    "links":   ["Contact Us","FAQ","T & C"],
+    "appsOnMobile":   ["google","android"],
+    "someAdvertisement":   [
+      {
+        "bold": "100% original",
+        "text": "guarantee  at myntra.com",
+        "url": "https://constant.myntassets.com/web/assets/img/6c3306ca-1efa-4a27-8769-3b69d16948741574602902452-original.png"
+      },
+      {
+        "bold": "Return within 30days",
+        "text": "of your order",
+        "url": "https://constant.myntassets.com/web/assets/img/ef05d6ec-950a-4d01-bbfa-e8e5af80ffe31574602902427-30days.png"
+      },
+      {
+        "bold": "get free delivery",
+        "text": "order above Rs. 1199",
+        "url": "https://constant.myntassets.com/web/assets/img/cafa8f3c-100e-47f1-8b1c-1d2424de71041574602902399-truck.png"
+      }]
+  },
+  "_footer_mid": {
+      "popularSearches": ["Adidas", "Arrow", "Fila", "Online Shopping", "Nike", "Pepe Jeans", "Puma", "United Colors Of Benetton", "Fastrack", "Shorts", "Being Human", "Skirts", "Woodland", "Supra", "Dresses", "Clothing", "Jewellery", "T Shirts", "Shoes", "Bags", "Watches", "Caps", "Shirts", "Backpacks", "Flip Flops", "Sunglasses", "Kurtas", "Lingerie", "Jackets", "Skechers", "Saree", "Sandals", "Puma Tshirts", "Woodland Shoes", "Titan Watches", "Fastrack Watches", "Wrangler Shirts", "Adidas Tshirts", "Nike Shoes", "Roadster Shirts", "Casual Shoes", "Running Shoes", "Nike Sports Shoes", "Jeans", "Being Human Tshirts", "Converse Shoes", "Cricket Shoes"]
+  },
+  "_footer_end":   {
+    "left": {
+      "text": "In case of any concern,"
+    },
+    "right": {
+      "text": "© 2020 www.myntra.com. All rights reserved."
+    }
+  }
+}
